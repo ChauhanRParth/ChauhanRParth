@@ -29,8 +29,8 @@
 - 🎥 Professional with Adobe Suite and Final Cut Pro X.
 - 😄 Pronouns: He/His 
 
-<code><img height="30" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></code>
-
+ <code><img height="30" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></code>
+ 
   
 ## Skills and Tools 🔰
 
@@ -38,12 +38,12 @@
 <code><img height="20" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"></code> 
 <code><img height="20" src="https://img.shields.io/badge/kali-linux-blue/?style=for-the-badge&logo=appveyor"></code>
+<code><img height="20" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"></code>
 
 
 
 <div align="center">
-
+  
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
 
