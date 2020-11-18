@@ -40,6 +40,11 @@
 <code><img height="20" src="https://img.shields.io/badge/kali-linux-blue/?style=for-the-badge&logo=appveyor"></code>
 <code><img height="20" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"></code>
 
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paarthrc&show_icons=true&theme=tokyonight)
+
+[![My Summary Card](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/paarthrc/github-profile-summary-cards)
+
+
 
 
 <div align="center">
