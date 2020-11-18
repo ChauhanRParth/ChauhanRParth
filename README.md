@@ -29,13 +29,13 @@
 - 🎥 Professional with Adobe Suite and Final Cut Pro X.
 - 😄 Pronouns: He/His 
 
-[![Twitter: profici0us](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/profici0us)
-[![Linkedin: proficious](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarth-raj-chauhan-5b389b1b7/)
+<code><img height="30" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></code>
 
+  
 ## Skills and Tools 🔰
 
 <code><img height="20" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"></code>  
-<code><img height="20" src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"></code> 
+<code><img height="20" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"></code> 
 <code><img height="20" src="https://img.shields.io/badge/kali-linux-blue/?style=for-the-badge&logo=appveyor"></code>
 
