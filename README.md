@@ -23,10 +23,10 @@
 
 
 - 🔭 I’m currently working at [Parallax Virtual Arts](https://pvaindia.com/).
-- 🌱 I’m currently learning more about Cybersecurity, iOS Development and Cinematography.
+- 🌱 Experienced Cyber Security Analyst with a demonstrated history of working in Android and iOS Development. Budding Cinematographer. 
 - 👯 If you want to collaborate contact me on Discord with the tag (nefari0us#1651 or S C I N T I L L A T E D#0123).
 - 💬 Ask me about iOS Dev or any Cybersec related stuff.
-- 🎥 Professional with Adobe Suite and Final Cut Pro X.
+- 🎥 Professional with Adobe Suite and Final Cut Pro.
 - 😄 Pronouns: He/His 
 
  <code><img height="30" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></code>
@@ -48,6 +48,6 @@
 
 
 <div align="center">
-###Show some ❤️ by starring some of the repositories!###
+Show some ❤️ by starring some of the repositories!
 </div>
 
