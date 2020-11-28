@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working at [Parallax Virtual Arts](https://pvaindia.com/).
 - 🌱 I’m currently learning more about Cybersecurity, iOS Development and Cinematography.
-- 👯 If you want to collaborate contact me on [Discord](nefari0us#1651).
+- 👯 If you want to collaborate contact me on Discord with the tag (nefari0us#1651 or S C I N T I L L A T E D#0123).
 - 💬 Ask me about iOS Dev or any Cybersec related stuff.
 - 🎥 Professional with Adobe Suite and Final Cut Pro X.
 - 😄 Pronouns: He/His 
