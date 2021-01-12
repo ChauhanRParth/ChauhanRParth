@@ -11,10 +11,10 @@
 <a href="https://github.com/paarthrc">
   <img align="left" alt="Paarth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/profici0us">
+<a href="https://t.me/prcios">
   <img align="left" alt="Parth's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/pr0fici0us/">
+<a href="https://instagram.com/spooftooph/">
   <img align="left" alt="PRC's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
@@ -23,8 +23,8 @@
 
 
 - 🔭 I’m currently working at [Parallax Virtual Arts](https://pvaindia.com/).
-- 🌱 Budding Machine Learning Scientist with a demonstrated knowledge in foundations of Cybersecurity.
-- 👯 If you want to collaborate contact me on [Telegram](https://t.me/paarthpva/).
+- 🌱 Budding Cybersecurity Expert with a demonstrated knowledge in foundations of iOS Development.
+- 👯 If you want to collaborate contact me on [Telegram](https://t.me/prcios/).
 - 💬 Ask me about Deep Learning or any Cybersec related stuff.
 - 🎥 Hobbies include Cinematography and Meditation.
 - 😄 Pronouns: He/His 
@@ -34,11 +34,9 @@
   
 ## Skills and Tools 🔰
 
-<code><img height="20" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"></code>  
 <code><img height="20" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"></code> 
 <code><img height="20" src="https://img.shields.io/badge/kali-linux-blue/?style=for-the-badge&logo=appveyor"></code>
-<code><img height="20" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"></code>
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paarthrc&show_icons=true&theme=tokyonight)
 
