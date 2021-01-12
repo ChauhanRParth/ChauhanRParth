@@ -28,8 +28,6 @@
 - 💬 Ask me about Deep Learning or any Cybersec related stuff.
 - 🎥 Hobbies include Cinematography and Meditation.
 - 😄 Pronouns: He/His 
-
- <code><img height="30" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></code>
  
   
 ## Skills and Tools 🔰
