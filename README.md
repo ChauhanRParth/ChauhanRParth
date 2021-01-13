@@ -11,7 +11,7 @@
 <a href="https://github.com/paarthrc">
   <img align="left" alt="Paarth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/prcios">
+<a href="https://t.me/CS7355608GO">
   <img align="left" alt="Parth's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/spooftooph/">
