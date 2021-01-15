@@ -36,7 +36,7 @@
 <code><img height="20" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"></code> 
 <code><img height="20" src="https://img.shields.io/badge/kali-linux-blue/?style=for-the-badge&logo=appveyor"></code>
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paarthrc&show_icons=true&theme=tokyonight)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=c00k1emonst3r&show_icons=true&theme=tokyonight)
 
 <div align="center">
 Show some ❤️ by starring some of the repositories!
