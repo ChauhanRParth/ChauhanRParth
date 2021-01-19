@@ -1,4 +1,4 @@
-## Haigh, I'm Paarth Raj Chauhan 👋
+## Ciao, I'm Paarth Raj Chauhan 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarthrc&label=Views&color=blue&style=plastic" alt="paarthrc" /> </p>
 
