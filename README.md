@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarthrc&label=Views&color=blue&style=plastic" alt="paarthrc" /> </p>
 
 <a href="https://twitter.com/profici0us">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Paarth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/paarth-raj-chauhan-5b389b1b7">
   <img align="left" alt="PRC's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,7 +11,7 @@
 <a href="https://github.com/paarthrc">
   <img align="left" alt="Paarth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/CS7355608GO">
+<a href="https://t.me/c00kiemonst3r">
   <img align="left" alt="Parth's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/spooftooph/">
