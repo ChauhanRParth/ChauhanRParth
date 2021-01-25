@@ -24,8 +24,8 @@
 
 - 🔭 I’m currently working at [Parallax Virtual Arts](https://pvaindia.com/).
 - 🌱 Budding Cybersecurity Expert with a demonstrated knowledge in foundations of iOS Development.
-- 👯 If you want to collaborate contact me on [Telegram](https://t.me/prcios/).
-- 🤞  I use Swift and Flutter frequently. 
+- 👯 If you want to collaborate contact me on [Telegram](https://t.me/c00kiemonst3r/).
+- 🤞  I use Swift and Flutter for iOS Development. 
 - 💬 Ask me about iOS Development or any Cybersec related stuff.
 - 🎥 Hobbies include Cinematography and Meditation.
 - 😄 Pronouns: He/His 
