@@ -29,7 +29,7 @@
 - 💬 Ask me about iOS Development or any Cybersec related stuff.
 - 🎥 Hobbies include Cinematography and Meditation.
 - 😄 Pronouns: He/His 
- 
+
   
 ## Skills and Tools 🔰
 
