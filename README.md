@@ -14,7 +14,7 @@
 <a href="https://t.me/ChauhanRParth">
   <img align="left" alt="Parth's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/d3b0na1r/">
+<a href="https://instagram.com/lol.tar.gz/">
   <img align="left" alt="PRC's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
