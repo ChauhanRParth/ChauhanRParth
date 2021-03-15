@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working at [Parallax Virtual Arts](https://pvaindia.com/).
 - 🌱 Budding Cybersecurity Expert with a demonstrated knowledge in foundations of iOS Development.
-- 👯 If you want to collaborate contact me on [Telegram](https://t.me/ChauhanRParth/).
+- 👯 If you want to collaborate contact me on [Discord](https://discord.com/users/723961418998611979).
 - 🤞  I use Swift and Flutter for iOS Development. 
 - 💬 Ask me about iOS Development or any Cybersec related stuff.
 - 🎥 Hobbies include Cinematography and Meditation.
